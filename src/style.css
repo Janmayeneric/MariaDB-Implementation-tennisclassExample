@@ -1,0 +1,18 @@
+/* 
+ * Simple CSS style for Simple MariaDB PHP Example 
+ * 
+ * @author jonl 
+ */
+
+h1, h2, p, th, tr, h3 {font-family: arial}
+h1, h3 {background-color: #ACDCEF}
+th {background-color: #ACDCEF}
+table{
+ border-color: #ededed;
+ border-left-width: thin;
+ border-right-width: thin;
+ border-top-width: thin;
+ border-bottom-width: thin;
+ table-layout:auto
+}
+a {font-family:Arial; text-decoration:none}
